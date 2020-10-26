@@ -1,0 +1,36 @@
+.Header{
+    background: 
+    /* top, transparent red */ 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6), 
+      rgba(0, 0, 0, 0.6)
+    ),
+    /* bottom, image */
+   url('../../Images/headerBG.png');
+  min-height: 75vh;
+  background-position: top; /* Center the image */
+  background-attachment: fixed;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+padding-left:6%;
+  color:#FDBA14;
+}
+
+.title{
+   padding-top: 10%;
+}
+
+.headerTitle{
+    font-weight: 500!important;
+}
+
+.m10{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* Change navbar styling on small viewports */
+@media (max-width: 991.98px) {
+    .Header{padding-top: 10%;}
+}
+

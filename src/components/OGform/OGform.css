@@ -1,0 +1,21 @@
+.formTitle{
+
+    padding: 1%;
+}
+
+.formDiv{
+    padding:3%;
+}
+
+.formTitle:after { /* this is the border */
+    content:"";
+    display:block;
+    width: 10%;
+    max-width:70%;
+    border-bottom: 2px solid #F3C577;
+    margin: 2% auto 0;
+}
+
+#current:hover{
+color: red;
+}

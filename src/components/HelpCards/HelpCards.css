@@ -1,0 +1,15 @@
+  
+.helpCard{
+    border-top: 2px solid #F3C577;
+    background-color: white;
+    color:black;
+    border-radius: 3px;
+    padding:6%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 2%;
+    height:100%;
+    -webkit-box-shadow: 0px 8px 5px 1px rgba(168,168,168,1);
+-moz-box-shadow: 0px 8px 5px 1px rgba(168,168,168,1);
+box-shadow: 0px 8px 5px 1px rgba(168,168,168,1);
+}

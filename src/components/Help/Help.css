@@ -1,0 +1,17 @@
+.helpTitle{
+
+    padding: 1%;
+}
+
+.help{
+    padding:3%;
+}
+
+.helpTitle:after { /* this is the border */
+    content:"";
+    display:block;
+    width: 10%;
+    max-width:70%;
+    border-bottom: 2px solid #F3C577;
+    margin: 2% auto 0;
+}

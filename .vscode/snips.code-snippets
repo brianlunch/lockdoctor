@@ -1,0 +1,30 @@
+
+	{
+		"Inserts Div with row className": {
+			"prefix": "rowDiv",
+			"body": [
+			  "<div class=\"row\">",
+			  "",
+			  "</div>"
+			],
+			"description": "Inserts Div with row className"
+		  },
+	
+		  "Inserts Div with col className": {
+			"prefix": "colDiv",
+			"body": [
+			  "  <div class=\"col\">",
+			  "",
+			  "  </div>"
+			],
+			"description": "Inserts Div with col className"
+		  },
+		  "import image from images": {
+			"prefix": "importImage",
+			"body": [
+			  "import image from '../images/' "
+			],
+			"description": "import image from images"
+		  }
+	
+	}
