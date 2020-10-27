@@ -73,7 +73,20 @@ const Nav = ({user}) => {
                             offset={-30}
                             duration= {500}
                             >
-                            How we can help
+                            Services
+                        </Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link
+                            className="nav-link"
+                            activeClass="active"
+                            to="contact"
+                            spy={true}
+                            smooth={true}
+                            offset={-80}
+                            duration= {500}
+                            >
+                            Book Online
                         </Link>
                     </li>
                     <li className="nav-item">

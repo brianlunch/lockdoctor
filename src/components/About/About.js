@@ -6,7 +6,7 @@ import './About.css'
 const About = () =>  {
 
    return (
-      <div className="about">
+      <div className="about col-10 mx-auto">
    <h1 className = "display-4 aboutTitle">About</h1>
 <div class="row">
   <div class="col-md-6 col-12 text-left">
@@ -23,8 +23,16 @@ In conclusion, simply call our support team on 1850 555 000 for any help you nee
 are on hand around the clock to assist with all your locksmiths and security challenges.
 </p>
   </div>
-    <div class="col-md-6 col-12">
+    <div class="col-md-6 col-12 text-right">
+      <div class="row">
+        <div class="col-8">
         <img src={ireland}/>
+        </div>
+          <div class="col-4">
+        
+          </div>
+      </div>
+        
   
     </div>
 </div>

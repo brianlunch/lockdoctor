@@ -15,8 +15,8 @@ const Help = () =>  {
       <div class="col-md-4 col-12">
       <HelpCards 
         title="Home" 
-        description="Complete domestic locksmith services nationwide, including 24 hour emergency call-outs, free home 
-                    security assessments and homesafe installations. Contact us for more information." 
+        description="Complete domestic locksmith services nationwide; Including 24 hour emergency call-outs, 
+        free home security assessments and home safe installations. Contact us for further information." 
         image={home}
         />
       </div>
@@ -24,8 +24,8 @@ const Help = () =>  {
       <div class="col-md-4 col-12">
       <HelpCards 
         title="Vehicle" 
-        description="Complete domestic locksmith services nationwide, including 24 hour emergency call-outs, free home 
-                    security assessments and homesafe installations. Contact us for more information." 
+        description="We operate a fast response roadside replacement vehicle key service. We can supply and program replacement keys to practically all vehicles without the need to tow. 
+        Contact us for a quotation or advice on how we can replace your lost or stolen keys." 
         image={car}
         />
       </div>
@@ -33,8 +33,7 @@ const Help = () =>  {
       <div class="col-md-4 col-12">
       <HelpCards 
         title="Other" 
-        description="Complete domestic locksmith services nationwide, including 24 hour emergency call-outs, free home 
-                    security assessments and homesafe installations. Contact us for more information." 
+        description="We offer locksmith services for commercial premises, fleet locksmith services for vehicles, and commercial safes for cash / valuables. Contact us to book a free survey of your property and receive expert advice and recommendations." 
         image={other}
         />
       </div>

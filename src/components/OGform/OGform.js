@@ -38,7 +38,7 @@ when: false,
 zip: false,
 };
 this.hideComponent = this.hideComponent.bind(this);
-this.printt = this.printt.bind(this);
+
 }
 hideComponent(name, info) {
 console.log(name);
@@ -118,14 +118,12 @@ default:
 this.setState(info);
 console.log(this.state)
 }
-printt(){
-console.log(this.state);
-}
+
 render() {
 const { startForm, issueForm, homeForm, vehicleForm,otherForm, timeForm, detailsForm} = this.state;
 return (
-<div className="formDiv">
-   <h1 className = "display-4 formTitle">Contact Us</h1>
+<div className="formDiv" id="contact">
+   <h1 className = "display-4 formTitle">Book Online</h1>
    {startForm && 
    <StartForm hideComponent={this.hideComponent}/>
    }
@@ -147,7 +145,6 @@ return (
    {detailsForm&&
    <DetailsForm hideComponent={this.hideComponent}/>
    }
-   <a onClick={this.printt}>Print</a>
    <div>
    </div>
 </div>

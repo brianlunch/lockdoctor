@@ -5,6 +5,7 @@ import Help from '../components/Help/Help'
 import About from '../components/About/About'
 import Nav from '../components/transparent-nav/Navbar'
 import Footer from '../components/Footer/Footer'
+import OGform from '../components/OGform/OGform'
 
 
 const Home = (props) => {
@@ -13,7 +14,9 @@ const Home = (props) => {
             <div>
                 <Nav/>
                <Header className="home"/>
+               
                <Help className="help"/>
+               <OGform className="contact"/>
                 <About/>
                 <Footer/>
             </div>

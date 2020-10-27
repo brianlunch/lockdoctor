@@ -10,23 +10,16 @@ const Header = (props) => {
             <div  id="home">
                 
                 <div className ="row Header text-left">
-                    <div className="col-lg-6 col-12 title">
-                    <h1 className="display-4 headerTitle">Ireland's Leading Locksmith</h1><br/>
-                    <h3 className="text-white">Complete locksmith services nationwide.</h3>
-                    <div class="row">
-                      <div class="col-lg-4 text-left col-md-4 col-12 m10">
-                      <Button text="Make a Booking"/>
-                      </div>
-                        <div class="col-lg-4 text-left col-md-4 col-12 m10 ">
-                        <Button text="Get a Quote"/>
-                        </div>
-                    </div>
+                    <div className="col-lg-8 col-12 title">
+                    <h1 className="display-3 headerTitle">Ireland's Leading Locksmiths</h1><br/>
+                    <h4 className="text-white">Ireland’s trusted brand, providing fast response nationwide services to Home, Business, Automobile and Commercial customers. <br/><br/>We have retail shops in Dublin, Limerick, Galway and Waterford.</h4>
+                    
                     
                     </div>
-                    <div className="col-lg-6 col-12 title">
+                    <div className="col-lg-6 col-12 ">
                     </div>
             </div>
-                <OGform/>
+                
 
             </div>
     )
