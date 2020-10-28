@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/lockdoctor/static/css/main.9c74579d.chunk.css",
-    "main.js": "/lockdoctor/static/js/main.78851e0f.chunk.js",
-    "main.js.map": "/lockdoctor/static/js/main.78851e0f.chunk.js.map",
+    "main.css": "/lockdoctor/static/css/main.04f84d92.chunk.css",
+    "main.js": "/lockdoctor/static/js/main.2b7b7533.chunk.js",
+    "main.js.map": "/lockdoctor/static/js/main.2b7b7533.chunk.js.map",
     "runtime-main.js": "/lockdoctor/static/js/runtime-main.6797974c.js",
     "runtime-main.js.map": "/lockdoctor/static/js/runtime-main.6797974c.js.map",
     "static/css/2.6e6f38cb.chunk.css": "/lockdoctor/static/css/2.6e6f38cb.chunk.css",
-    "static/js/2.4916c0b9.chunk.js": "/lockdoctor/static/js/2.4916c0b9.chunk.js",
-    "static/js/2.4916c0b9.chunk.js.map": "/lockdoctor/static/js/2.4916c0b9.chunk.js.map",
+    "static/js/2.46f51a48.chunk.js": "/lockdoctor/static/js/2.46f51a48.chunk.js",
+    "static/js/2.46f51a48.chunk.js.map": "/lockdoctor/static/js/2.46f51a48.chunk.js.map",
     "index.html": "/lockdoctor/index.html",
-    "precache-manifest.07858dbe62f97a20e5c7d362e5b34cf6.js": "/lockdoctor/precache-manifest.07858dbe62f97a20e5c7d362e5b34cf6.js",
+    "precache-manifest.8d8a8fd0c6dc2274d15deea0aeb43fa6.js": "/lockdoctor/precache-manifest.8d8a8fd0c6dc2274d15deea0aeb43fa6.js",
     "service-worker.js": "/lockdoctor/service-worker.js",
     "static/css/2.6e6f38cb.chunk.css.map": "/lockdoctor/static/css/2.6e6f38cb.chunk.css.map",
-    "static/css/main.9c74579d.chunk.css.map": "/lockdoctor/static/css/main.9c74579d.chunk.css.map",
-    "static/js/2.4916c0b9.chunk.js.LICENSE.txt": "/lockdoctor/static/js/2.4916c0b9.chunk.js.LICENSE.txt",
+    "static/css/main.04f84d92.chunk.css.map": "/lockdoctor/static/css/main.04f84d92.chunk.css.map",
+    "static/js/2.46f51a48.chunk.js.LICENSE.txt": "/lockdoctor/static/js/2.46f51a48.chunk.js.LICENSE.txt",
+    "static/media/Logo_transparent.png": "/lockdoctor/static/media/Logo_transparent.efcc2558.png",
     "static/media/Header.css": "/lockdoctor/static/media/headerBG.c1b09a85.png",
     "static/media/irelandMap.png": "/lockdoctor/static/media/irelandMap.4e0e0b8b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6797974c.js",
     "static/css/2.6e6f38cb.chunk.css",
-    "static/js/2.4916c0b9.chunk.js",
-    "static/css/main.9c74579d.chunk.css",
-    "static/js/main.78851e0f.chunk.js"
+    "static/js/2.46f51a48.chunk.js",
+    "static/css/main.04f84d92.chunk.css",
+    "static/js/main.2b7b7533.chunk.js"
   ]
 }
