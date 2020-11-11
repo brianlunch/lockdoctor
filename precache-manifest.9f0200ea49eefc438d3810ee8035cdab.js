@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c1c6d6a42fea562a2b10185d63ec7a8",
+    "revision": "bfe8fc9cf28a2d9030223e7439f2fe02",
     "url": "/lockdoctor/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lockdoctor/static/css/2.6e6f38cb.chunk.css"
   },
   {
-    "revision": "5af4dc7833b547bca871",
-    "url": "/lockdoctor/static/css/main.98398745.chunk.css"
+    "revision": "ab9483a6d949296ef717",
+    "url": "/lockdoctor/static/css/main.60bf91a8.chunk.css"
   },
   {
     "revision": "371533dc449d457c1133",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lockdoctor/static/js/2.3007960e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5af4dc7833b547bca871",
-    "url": "/lockdoctor/static/js/main.73af2aa6.chunk.js"
+    "revision": "ab9483a6d949296ef717",
+    "url": "/lockdoctor/static/js/main.7c0c47ad.chunk.js"
   },
   {
     "revision": "38026527e3461651bebe",
