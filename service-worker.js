@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lockdoctor/precache-manifest.9092318cca2e3d077ff72dbcaf643563.js"
+  "/lockdoctor/precache-manifest.448f3d0a4def3a3ac34cb3135411aef2.js"
 );
 
 self.addEventListener('message', (event) => {
